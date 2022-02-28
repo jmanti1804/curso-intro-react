@@ -1,0 +1,22 @@
+.SearchContainer{
+    width: 40%;
+    margin: 25px auto;
+    height: auto;
+    align-items: center;
+    display: flex;
+}
+.SearchInput{
+    align-items: center;
+    color: #1d3354;
+    background-color: #e9fff9;
+    border: 7px hidden #467599;
+    border-radius: 8px;
+    width: 100%;
+    font-size: 20px;
+    outline: none;
+}
+.SearchInput:hover{
+    box-shadow: 3px -6px 23px 15px rgba(158,216,219,0.82);
+-webkit-box-shadow: 3px -6px 23px 15px rgba(158,216,219,0.82);
+-moz-box-shadow: 3px -6px 23px 15px rgba(158,216,219,0.82);
+}
